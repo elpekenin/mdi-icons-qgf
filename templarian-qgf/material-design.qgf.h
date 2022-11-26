@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_material_design_length;
-extern const uint8_t  gfx_material_design[54];
+extern const uint8_t  gfx_material_design[327];

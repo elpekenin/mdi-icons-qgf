@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_calendar_month_length;
-extern const uint8_t  gfx_calendar_month[54];
+extern const uint8_t  gfx_calendar_month[291];

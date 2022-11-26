@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_multiplication_box_length;
-extern const uint8_t  gfx_multiplication_box[54];
+extern const uint8_t  gfx_multiplication_box[253];

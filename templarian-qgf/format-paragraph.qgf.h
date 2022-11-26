@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_paragraph_length;
-extern const uint8_t  gfx_format_paragraph[54];
+extern const uint8_t  gfx_format_paragraph[188];

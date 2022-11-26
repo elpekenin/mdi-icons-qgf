@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_pipe_disconnected_length;
-extern const uint8_t  gfx_pipe_disconnected[54];
+extern const uint8_t  gfx_pipe_disconnected[282];

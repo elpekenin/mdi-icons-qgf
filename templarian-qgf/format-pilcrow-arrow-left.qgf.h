@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_pilcrow_arrow_left_length;
-extern const uint8_t  gfx_format_pilcrow_arrow_left[54];
+extern const uint8_t  gfx_format_pilcrow_arrow_left[255];

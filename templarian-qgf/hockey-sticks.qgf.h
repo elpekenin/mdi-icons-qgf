@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_hockey_sticks_length;
-extern const uint8_t  gfx_hockey_sticks[54];
+extern const uint8_t  gfx_hockey_sticks[233];

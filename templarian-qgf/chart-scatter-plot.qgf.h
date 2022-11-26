@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_chart_scatter_plot_length;
-extern const uint8_t  gfx_chart_scatter_plot[54];
+extern const uint8_t  gfx_chart_scatter_plot[292];

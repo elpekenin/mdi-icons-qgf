@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_point_of_sale_length;
-extern const uint8_t  gfx_point_of_sale[54];
+extern const uint8_t  gfx_point_of_sale[296];

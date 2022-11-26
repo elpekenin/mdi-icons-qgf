@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_rhombus_split_length;
-extern const uint8_t  gfx_rhombus_split[54];
+extern const uint8_t  gfx_rhombus_split[291];

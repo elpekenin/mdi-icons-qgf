@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_home_floor_b_length;
-extern const uint8_t  gfx_home_floor_b[54];
+extern const uint8_t  gfx_home_floor_b[281];

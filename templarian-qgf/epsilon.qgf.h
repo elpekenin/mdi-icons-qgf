@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_epsilon_length;
-extern const uint8_t  gfx_epsilon[54];
+extern const uint8_t  gfx_epsilon[185];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_playlist_music_length;
-extern const uint8_t  gfx_playlist_music[54];
+extern const uint8_t  gfx_playlist_music[205];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_debug_step_over_length;
-extern const uint8_t  gfx_debug_step_over[54];
+extern const uint8_t  gfx_debug_step_over[209];

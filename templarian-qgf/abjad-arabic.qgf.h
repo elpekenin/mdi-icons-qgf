@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_abjad_arabic_length;
-extern const uint8_t  gfx_abjad_arabic[54];
+extern const uint8_t  gfx_abjad_arabic[219];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_microsoft_windows_classic_length;
-extern const uint8_t  gfx_microsoft_windows_classic[54];
+extern const uint8_t  gfx_microsoft_windows_classic[244];

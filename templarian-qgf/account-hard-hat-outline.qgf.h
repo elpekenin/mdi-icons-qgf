@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_account_hard_hat_outline_length;
-extern const uint8_t  gfx_account_hard_hat_outline[54];
+extern const uint8_t  gfx_account_hard_hat_outline[257];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_printer_pos_cancel_length;
-extern const uint8_t  gfx_printer_pos_cancel[54];
+extern const uint8_t  gfx_printer_pos_cancel[293];

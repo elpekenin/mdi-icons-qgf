@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_music_rest_sixteenth_length;
-extern const uint8_t  gfx_music_rest_sixteenth[54];
+extern const uint8_t  gfx_music_rest_sixteenth[230];

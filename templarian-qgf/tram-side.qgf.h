@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_tram_side_length;
-extern const uint8_t  gfx_tram_side[54];
+extern const uint8_t  gfx_tram_side[284];

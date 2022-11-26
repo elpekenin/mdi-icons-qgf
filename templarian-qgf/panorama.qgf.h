@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_panorama_length;
-extern const uint8_t  gfx_panorama[54];
+extern const uint8_t  gfx_panorama[230];

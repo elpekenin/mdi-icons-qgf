@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_kayaking_length;
-extern const uint8_t  gfx_kayaking[54];
+extern const uint8_t  gfx_kayaking[279];

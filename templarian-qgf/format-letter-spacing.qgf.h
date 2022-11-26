@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_letter_spacing_length;
-extern const uint8_t  gfx_format_letter_spacing[54];
+extern const uint8_t  gfx_format_letter_spacing[286];

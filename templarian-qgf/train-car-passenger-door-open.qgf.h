@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_train_car_passenger_door_open_length;
-extern const uint8_t  gfx_train_car_passenger_door_open[54];
+extern const uint8_t  gfx_train_car_passenger_door_open[200];

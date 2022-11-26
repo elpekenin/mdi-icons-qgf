@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_volume_low_length;
-extern const uint8_t  gfx_volume_low[54];
+extern const uint8_t  gfx_volume_low[206];

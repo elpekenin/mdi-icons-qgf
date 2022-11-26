@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_window_shutter_auto_length;
-extern const uint8_t  gfx_window_shutter_auto[54];
+extern const uint8_t  gfx_window_shutter_auto[293];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_cog_refresh_length;
-extern const uint8_t  gfx_cog_refresh[54];
+extern const uint8_t  gfx_cog_refresh[295];

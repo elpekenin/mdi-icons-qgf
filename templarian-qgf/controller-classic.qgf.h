@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_controller_classic_length;
-extern const uint8_t  gfx_controller_classic[54];
+extern const uint8_t  gfx_controller_classic[174];

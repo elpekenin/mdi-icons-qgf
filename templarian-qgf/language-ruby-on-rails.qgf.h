@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_language_ruby_on_rails_length;
-extern const uint8_t  gfx_language_ruby_on_rails[54];
+extern const uint8_t  gfx_language_ruby_on_rails[235];

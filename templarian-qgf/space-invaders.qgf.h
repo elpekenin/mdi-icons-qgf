@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_space_invaders_length;
-extern const uint8_t  gfx_space_invaders[54];
+extern const uint8_t  gfx_space_invaders[262];

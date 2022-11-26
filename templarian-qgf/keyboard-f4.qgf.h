@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_keyboard_f4_length;
-extern const uint8_t  gfx_keyboard_f4[54];
+extern const uint8_t  gfx_keyboard_f4[198];

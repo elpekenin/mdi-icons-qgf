@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_bus_stop_uncovered_length;
-extern const uint8_t  gfx_bus_stop_uncovered[54];
+extern const uint8_t  gfx_bus_stop_uncovered[254];

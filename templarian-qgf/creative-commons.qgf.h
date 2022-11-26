@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_creative_commons_length;
-extern const uint8_t  gfx_creative_commons[54];
+extern const uint8_t  gfx_creative_commons[325];

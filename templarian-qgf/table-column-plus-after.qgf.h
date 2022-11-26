@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_table_column_plus_after_length;
-extern const uint8_t  gfx_table_column_plus_after[54];
+extern const uint8_t  gfx_table_column_plus_after[330];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_music_note_sixteenth_length;
-extern const uint8_t  gfx_music_note_sixteenth[54];
+extern const uint8_t  gfx_music_note_sixteenth[237];

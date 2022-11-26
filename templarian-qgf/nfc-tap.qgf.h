@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_nfc_tap_length;
-extern const uint8_t  gfx_nfc_tap[54];
+extern const uint8_t  gfx_nfc_tap[277];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_checkbook_length;
-extern const uint8_t  gfx_checkbook[54];
+extern const uint8_t  gfx_checkbook[196];

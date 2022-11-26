@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_dice_d10_length;
-extern const uint8_t  gfx_dice_d10[54];
+extern const uint8_t  gfx_dice_d10[304];

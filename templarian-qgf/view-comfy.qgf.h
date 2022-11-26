@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_view_comfy_length;
-extern const uint8_t  gfx_view_comfy[54];
+extern const uint8_t  gfx_view_comfy[203];

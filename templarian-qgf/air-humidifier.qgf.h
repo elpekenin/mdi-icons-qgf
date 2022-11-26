@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_air_humidifier_length;
-extern const uint8_t  gfx_air_humidifier[54];
+extern const uint8_t  gfx_air_humidifier[277];

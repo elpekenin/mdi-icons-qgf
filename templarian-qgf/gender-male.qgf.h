@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_gender_male_length;
-extern const uint8_t  gfx_gender_male[54];
+extern const uint8_t  gfx_gender_male[276];

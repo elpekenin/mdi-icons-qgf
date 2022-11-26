@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_crop_landscape_length;
-extern const uint8_t  gfx_crop_landscape[54];
+extern const uint8_t  gfx_crop_landscape[233];

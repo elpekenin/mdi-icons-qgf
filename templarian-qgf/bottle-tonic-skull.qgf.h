@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_bottle_tonic_skull_length;
-extern const uint8_t  gfx_bottle_tonic_skull[54];
+extern const uint8_t  gfx_bottle_tonic_skull[304];

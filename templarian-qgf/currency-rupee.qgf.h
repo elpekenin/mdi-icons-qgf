@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_currency_rupee_length;
-extern const uint8_t  gfx_currency_rupee[54];
+extern const uint8_t  gfx_currency_rupee[246];

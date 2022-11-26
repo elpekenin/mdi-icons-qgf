@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_calendar_blank_multiple_length;
-extern const uint8_t  gfx_calendar_blank_multiple[54];
+extern const uint8_t  gfx_calendar_blank_multiple[275];

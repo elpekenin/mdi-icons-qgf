@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_weather_partly_snowy_rainy_length;
-extern const uint8_t  gfx_weather_partly_snowy_rainy[54];
+extern const uint8_t  gfx_weather_partly_snowy_rainy[336];

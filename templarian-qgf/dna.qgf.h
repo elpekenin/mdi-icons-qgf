@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_dna_length;
-extern const uint8_t  gfx_dna[54];
+extern const uint8_t  gfx_dna[336];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_text_shadow_length;
-extern const uint8_t  gfx_text_shadow[54];
+extern const uint8_t  gfx_text_shadow[218];

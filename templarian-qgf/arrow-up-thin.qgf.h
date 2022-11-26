@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_arrow_up_thin_length;
-extern const uint8_t  gfx_arrow_up_thin[54];
+extern const uint8_t  gfx_arrow_up_thin[195];

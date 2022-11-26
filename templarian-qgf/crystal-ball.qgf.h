@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_crystal_ball_length;
-extern const uint8_t  gfx_crystal_ball[54];
+extern const uint8_t  gfx_crystal_ball[310];

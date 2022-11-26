@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_microsoft_xbox_controller_menu_length;
-extern const uint8_t  gfx_microsoft_xbox_controller_menu[54];
+extern const uint8_t  gfx_microsoft_xbox_controller_menu[309];

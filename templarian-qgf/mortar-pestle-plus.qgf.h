@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_mortar_pestle_plus_length;
-extern const uint8_t  gfx_mortar_pestle_plus[54];
+extern const uint8_t  gfx_mortar_pestle_plus[276];

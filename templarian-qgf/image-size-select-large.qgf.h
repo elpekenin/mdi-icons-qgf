@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_image_size_select_large_length;
-extern const uint8_t  gfx_image_size_select_large[54];
+extern const uint8_t  gfx_image_size_select_large[228];

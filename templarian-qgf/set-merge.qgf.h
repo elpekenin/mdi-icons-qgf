@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_set_merge_length;
-extern const uint8_t  gfx_set_merge[54];
+extern const uint8_t  gfx_set_merge[159];

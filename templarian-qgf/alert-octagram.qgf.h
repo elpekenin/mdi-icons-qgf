@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_alert_octagram_length;
-extern const uint8_t  gfx_alert_octagram[54];
+extern const uint8_t  gfx_alert_octagram[319];

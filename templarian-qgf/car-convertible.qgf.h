@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_car_convertible_length;
-extern const uint8_t  gfx_car_convertible[54];
+extern const uint8_t  gfx_car_convertible[182];

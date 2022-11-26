@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_tray_minus_length;
-extern const uint8_t  gfx_tray_minus[54];
+extern const uint8_t  gfx_tray_minus[139];

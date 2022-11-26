@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_seat_length;
-extern const uint8_t  gfx_seat[54];
+extern const uint8_t  gfx_seat[277];

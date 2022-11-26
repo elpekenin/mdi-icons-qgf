@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_clipboard_pulse_length;
-extern const uint8_t  gfx_clipboard_pulse[54];
+extern const uint8_t  gfx_clipboard_pulse[284];

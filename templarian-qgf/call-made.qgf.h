@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_call_made_length;
-extern const uint8_t  gfx_call_made[54];
+extern const uint8_t  gfx_call_made[209];

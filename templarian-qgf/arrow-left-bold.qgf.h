@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_arrow_left_bold_length;
-extern const uint8_t  gfx_arrow_left_bold[54];
+extern const uint8_t  gfx_arrow_left_bold[202];

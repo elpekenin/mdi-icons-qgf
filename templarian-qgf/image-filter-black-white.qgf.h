@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_image_filter_black_white_length;
-extern const uint8_t  gfx_image_filter_black_white[54];
+extern const uint8_t  gfx_image_filter_black_white[276];

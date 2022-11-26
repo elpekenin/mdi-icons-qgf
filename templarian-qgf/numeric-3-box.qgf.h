@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_numeric_3_box_length;
-extern const uint8_t  gfx_numeric_3_box[54];
+extern const uint8_t  gfx_numeric_3_box[261];

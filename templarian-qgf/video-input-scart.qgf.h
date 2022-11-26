@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_video_input_scart_length;
-extern const uint8_t  gfx_video_input_scart[54];
+extern const uint8_t  gfx_video_input_scart[284];

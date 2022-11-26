@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_arrow_decision_length;
-extern const uint8_t  gfx_arrow_decision[54];
+extern const uint8_t  gfx_arrow_decision[284];

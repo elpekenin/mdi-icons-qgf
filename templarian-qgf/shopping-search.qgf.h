@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_shopping_search_length;
-extern const uint8_t  gfx_shopping_search[54];
+extern const uint8_t  gfx_shopping_search[318];

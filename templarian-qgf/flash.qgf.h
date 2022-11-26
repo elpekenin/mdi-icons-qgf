@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_flash_length;
-extern const uint8_t  gfx_flash[54];
+extern const uint8_t  gfx_flash[281];

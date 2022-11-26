@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_temperature_celsius_length;
-extern const uint8_t  gfx_temperature_celsius[54];
+extern const uint8_t  gfx_temperature_celsius[245];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_robot_dead_length;
-extern const uint8_t  gfx_robot_dead[54];
+extern const uint8_t  gfx_robot_dead[273];

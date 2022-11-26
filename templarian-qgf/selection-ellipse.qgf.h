@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_selection_ellipse_length;
-extern const uint8_t  gfx_selection_ellipse[54];
+extern const uint8_t  gfx_selection_ellipse[272];

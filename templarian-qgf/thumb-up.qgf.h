@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_thumb_up_length;
-extern const uint8_t  gfx_thumb_up[54];
+extern const uint8_t  gfx_thumb_up[276];

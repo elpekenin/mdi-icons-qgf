@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_fruit_cherries_off_length;
-extern const uint8_t  gfx_fruit_cherries_off[54];
+extern const uint8_t  gfx_fruit_cherries_off[331];

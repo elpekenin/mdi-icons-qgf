@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_moon_waxing_gibbous_length;
-extern const uint8_t  gfx_moon_waxing_gibbous[54];
+extern const uint8_t  gfx_moon_waxing_gibbous[292];

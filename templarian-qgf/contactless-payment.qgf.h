@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_contactless_payment_length;
-extern const uint8_t  gfx_contactless_payment[54];
+extern const uint8_t  gfx_contactless_payment[299];

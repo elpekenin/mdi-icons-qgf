@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_application_array_length;
-extern const uint8_t  gfx_application_array[54];
+extern const uint8_t  gfx_application_array[284];

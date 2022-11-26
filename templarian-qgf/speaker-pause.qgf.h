@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_speaker_pause_length;
-extern const uint8_t  gfx_speaker_pause[54];
+extern const uint8_t  gfx_speaker_pause[307];

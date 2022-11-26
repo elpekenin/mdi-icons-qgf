@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_delete_forever_outline_length;
-extern const uint8_t  gfx_delete_forever_outline[54];
+extern const uint8_t  gfx_delete_forever_outline[302];

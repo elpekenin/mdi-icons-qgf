@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_ev_plug_chademo_length;
-extern const uint8_t  gfx_ev_plug_chademo[54];
+extern const uint8_t  gfx_ev_plug_chademo[308];

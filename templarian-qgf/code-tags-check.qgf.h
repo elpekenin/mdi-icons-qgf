@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_code_tags_check_length;
-extern const uint8_t  gfx_code_tags_check[54];
+extern const uint8_t  gfx_code_tags_check[276];

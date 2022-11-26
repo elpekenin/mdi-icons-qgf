@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_audio_input_stereo_minijack_length;
-extern const uint8_t  gfx_audio_input_stereo_minijack[54];
+extern const uint8_t  gfx_audio_input_stereo_minijack[240];

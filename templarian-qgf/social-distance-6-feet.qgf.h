@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_social_distance_6_feet_length;
-extern const uint8_t  gfx_social_distance_6_feet[54];
+extern const uint8_t  gfx_social_distance_6_feet[288];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_select_inverse_length;
-extern const uint8_t  gfx_select_inverse[54];
+extern const uint8_t  gfx_select_inverse[256];

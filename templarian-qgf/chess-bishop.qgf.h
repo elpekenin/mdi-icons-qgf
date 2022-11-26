@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_chess_bishop_length;
-extern const uint8_t  gfx_chess_bishop[54];
+extern const uint8_t  gfx_chess_bishop[287];

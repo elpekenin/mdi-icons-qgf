@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_credit_card_refund_outline_length;
-extern const uint8_t  gfx_credit_card_refund_outline[54];
+extern const uint8_t  gfx_credit_card_refund_outline[300];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_sack_percent_length;
-extern const uint8_t  gfx_sack_percent[54];
+extern const uint8_t  gfx_sack_percent[300];

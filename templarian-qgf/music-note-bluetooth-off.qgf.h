@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_music_note_bluetooth_off_length;
-extern const uint8_t  gfx_music_note_bluetooth_off[54];
+extern const uint8_t  gfx_music_note_bluetooth_off[292];

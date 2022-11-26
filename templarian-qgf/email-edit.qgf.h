@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_email_edit_length;
-extern const uint8_t  gfx_email_edit[54];
+extern const uint8_t  gfx_email_edit[271];

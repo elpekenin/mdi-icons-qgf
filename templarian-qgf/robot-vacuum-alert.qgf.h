@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_robot_vacuum_alert_length;
-extern const uint8_t  gfx_robot_vacuum_alert[54];
+extern const uint8_t  gfx_robot_vacuum_alert[290];

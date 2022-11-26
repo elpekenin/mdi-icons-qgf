@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_text_wrapping_clip_length;
-extern const uint8_t  gfx_format_text_wrapping_clip[54];
+extern const uint8_t  gfx_format_text_wrapping_clip[334];

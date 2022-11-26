@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_litecoin_length;
-extern const uint8_t  gfx_litecoin[54];
+extern const uint8_t  gfx_litecoin[311];

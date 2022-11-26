@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_trash_can_outline_length;
-extern const uint8_t  gfx_trash_can_outline[54];
+extern const uint8_t  gfx_trash_can_outline[244];

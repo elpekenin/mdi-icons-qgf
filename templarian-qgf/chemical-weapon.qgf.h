@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_chemical_weapon_length;
-extern const uint8_t  gfx_chemical_weapon[54];
+extern const uint8_t  gfx_chemical_weapon[281];

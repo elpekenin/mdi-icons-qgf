@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_hand_wash_length;
-extern const uint8_t  gfx_hand_wash[54];
+extern const uint8_t  gfx_hand_wash[298];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_weight_pound_length;
-extern const uint8_t  gfx_weight_pound[54];
+extern const uint8_t  gfx_weight_pound[248];

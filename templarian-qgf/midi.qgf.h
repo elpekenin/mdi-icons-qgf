@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_midi_length;
-extern const uint8_t  gfx_midi[54];
+extern const uint8_t  gfx_midi[149];

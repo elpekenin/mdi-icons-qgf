@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_crown_length;
-extern const uint8_t  gfx_crown[54];
+extern const uint8_t  gfx_crown[226];

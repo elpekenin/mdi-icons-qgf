@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_current_ac_length;
-extern const uint8_t  gfx_current_ac[54];
+extern const uint8_t  gfx_current_ac[167];

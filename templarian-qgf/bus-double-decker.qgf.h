@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_bus_double_decker_length;
-extern const uint8_t  gfx_bus_double_decker[54];
+extern const uint8_t  gfx_bus_double_decker[240];

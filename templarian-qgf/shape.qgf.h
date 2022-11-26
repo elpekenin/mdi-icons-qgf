@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_shape_length;
-extern const uint8_t  gfx_shape[54];
+extern const uint8_t  gfx_shape[260];

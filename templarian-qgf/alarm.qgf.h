@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_alarm_length;
-extern const uint8_t  gfx_alarm[54];
+extern const uint8_t  gfx_alarm[321];

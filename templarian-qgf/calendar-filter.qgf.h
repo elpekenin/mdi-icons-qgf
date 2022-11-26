@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_calendar_filter_length;
-extern const uint8_t  gfx_calendar_filter[54];
+extern const uint8_t  gfx_calendar_filter[314];

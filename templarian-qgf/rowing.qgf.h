@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_rowing_length;
-extern const uint8_t  gfx_rowing[54];
+extern const uint8_t  gfx_rowing[309];

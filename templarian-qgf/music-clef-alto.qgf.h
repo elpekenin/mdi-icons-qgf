@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_music_clef_alto_length;
-extern const uint8_t  gfx_music_clef_alto[54];
+extern const uint8_t  gfx_music_clef_alto[270];

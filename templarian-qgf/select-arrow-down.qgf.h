@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_select_arrow_down_length;
-extern const uint8_t  gfx_select_arrow_down[54];
+extern const uint8_t  gfx_select_arrow_down[218];

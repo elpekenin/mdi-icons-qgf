@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_transmission_tower_import_length;
-extern const uint8_t  gfx_transmission_tower_import[54];
+extern const uint8_t  gfx_transmission_tower_import[305];

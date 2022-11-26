@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_card_bulleted_length;
-extern const uint8_t  gfx_card_bulleted[54];
+extern const uint8_t  gfx_card_bulleted[221];

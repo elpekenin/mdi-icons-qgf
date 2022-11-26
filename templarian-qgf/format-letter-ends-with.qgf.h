@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_letter_ends_with_length;
-extern const uint8_t  gfx_format_letter_ends_with[54];
+extern const uint8_t  gfx_format_letter_ends_with[221];

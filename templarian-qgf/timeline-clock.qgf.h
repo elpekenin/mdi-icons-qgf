@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_timeline_clock_length;
-extern const uint8_t  gfx_timeline_clock[54];
+extern const uint8_t  gfx_timeline_clock[299];

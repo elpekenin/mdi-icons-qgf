@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_view_grid_length;
-extern const uint8_t  gfx_view_grid[54];
+extern const uint8_t  gfx_view_grid[248];

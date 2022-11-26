@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_zodiac_capricorn_length;
-extern const uint8_t  gfx_zodiac_capricorn[54];
+extern const uint8_t  gfx_zodiac_capricorn[271];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_football_australian_length;
-extern const uint8_t  gfx_football_australian[54];
+extern const uint8_t  gfx_football_australian[248];

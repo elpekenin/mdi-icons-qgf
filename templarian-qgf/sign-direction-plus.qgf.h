@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_sign_direction_plus_length;
-extern const uint8_t  gfx_sign_direction_plus[54];
+extern const uint8_t  gfx_sign_direction_plus[292];

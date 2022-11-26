@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_list_checkbox_length;
-extern const uint8_t  gfx_format_list_checkbox[54];
+extern const uint8_t  gfx_format_list_checkbox[182];

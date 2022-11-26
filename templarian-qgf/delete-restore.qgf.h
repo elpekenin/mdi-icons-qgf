@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_delete_restore_length;
-extern const uint8_t  gfx_delete_restore[54];
+extern const uint8_t  gfx_delete_restore[301];

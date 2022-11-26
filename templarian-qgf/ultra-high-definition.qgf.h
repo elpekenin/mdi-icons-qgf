@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_ultra_high_definition_length;
-extern const uint8_t  gfx_ultra_high_definition[54];
+extern const uint8_t  gfx_ultra_high_definition[143];

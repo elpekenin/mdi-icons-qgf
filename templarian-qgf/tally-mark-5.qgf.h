@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_tally_mark_5_length;
-extern const uint8_t  gfx_tally_mark_5[54];
+extern const uint8_t  gfx_tally_mark_5[201];

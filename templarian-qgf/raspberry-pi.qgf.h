@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_raspberry_pi_length;
-extern const uint8_t  gfx_raspberry_pi[54];
+extern const uint8_t  gfx_raspberry_pi[227];

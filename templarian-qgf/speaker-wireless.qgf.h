@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_speaker_wireless_length;
-extern const uint8_t  gfx_speaker_wireless[54];
+extern const uint8_t  gfx_speaker_wireless[298];

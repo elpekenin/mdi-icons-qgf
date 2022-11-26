@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_gavel_length;
-extern const uint8_t  gfx_gavel[54];
+extern const uint8_t  gfx_gavel[304];

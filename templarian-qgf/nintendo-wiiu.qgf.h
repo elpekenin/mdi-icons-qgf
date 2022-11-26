@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_nintendo_wiiu_length;
-extern const uint8_t  gfx_nintendo_wiiu[54];
+extern const uint8_t  gfx_nintendo_wiiu[228];

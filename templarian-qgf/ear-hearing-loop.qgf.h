@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_ear_hearing_loop_length;
-extern const uint8_t  gfx_ear_hearing_loop[54];
+extern const uint8_t  gfx_ear_hearing_loop[313];

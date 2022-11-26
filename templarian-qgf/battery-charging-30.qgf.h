@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_battery_charging_30_length;
-extern const uint8_t  gfx_battery_charging_30[54];
+extern const uint8_t  gfx_battery_charging_30[324];

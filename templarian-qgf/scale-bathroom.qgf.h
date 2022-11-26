@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_scale_bathroom_length;
-extern const uint8_t  gfx_scale_bathroom[54];
+extern const uint8_t  gfx_scale_bathroom[300];

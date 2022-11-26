@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_book_heart_length;
-extern const uint8_t  gfx_book_heart[54];
+extern const uint8_t  gfx_book_heart[308];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_egg_length;
-extern const uint8_t  gfx_egg[54];
+extern const uint8_t  gfx_egg[336];

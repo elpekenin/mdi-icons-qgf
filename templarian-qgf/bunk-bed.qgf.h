@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_bunk_bed_length;
-extern const uint8_t  gfx_bunk_bed[54];
+extern const uint8_t  gfx_bunk_bed[303];

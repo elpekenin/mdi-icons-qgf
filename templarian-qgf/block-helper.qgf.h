@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_block_helper_length;
-extern const uint8_t  gfx_block_helper[54];
+extern const uint8_t  gfx_block_helper[336];

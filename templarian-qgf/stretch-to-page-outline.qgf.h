@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_stretch_to_page_outline_length;
-extern const uint8_t  gfx_stretch_to_page_outline[54];
+extern const uint8_t  gfx_stretch_to_page_outline[285];

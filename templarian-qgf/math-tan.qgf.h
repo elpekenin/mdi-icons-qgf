@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_math_tan_length;
-extern const uint8_t  gfx_math_tan[54];
+extern const uint8_t  gfx_math_tan[188];

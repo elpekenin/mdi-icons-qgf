@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_ice_pop_length;
-extern const uint8_t  gfx_ice_pop[54];
+extern const uint8_t  gfx_ice_pop[297];

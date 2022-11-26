@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_rewind_60_length;
-extern const uint8_t  gfx_rewind_60[54];
+extern const uint8_t  gfx_rewind_60[282];

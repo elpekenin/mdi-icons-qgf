@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_phone_incoming_length;
-extern const uint8_t  gfx_phone_incoming[54];
+extern const uint8_t  gfx_phone_incoming[272];

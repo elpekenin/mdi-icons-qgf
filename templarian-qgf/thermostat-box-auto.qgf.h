@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_thermostat_box_auto_length;
-extern const uint8_t  gfx_thermostat_box_auto[54];
+extern const uint8_t  gfx_thermostat_box_auto[308];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_qrcode_scan_length;
-extern const uint8_t  gfx_qrcode_scan[54];
+extern const uint8_t  gfx_qrcode_scan[336];

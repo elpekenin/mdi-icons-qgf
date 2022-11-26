@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_form_textbox_password_length;
-extern const uint8_t  gfx_form_textbox_password[54];
+extern const uint8_t  gfx_form_textbox_password[277];

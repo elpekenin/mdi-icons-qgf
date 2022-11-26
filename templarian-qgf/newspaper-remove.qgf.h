@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_newspaper_remove_length;
-extern const uint8_t  gfx_newspaper_remove[54];
+extern const uint8_t  gfx_newspaper_remove[266];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_microsoft_visual_studio_length;
-extern const uint8_t  gfx_microsoft_visual_studio[54];
+extern const uint8_t  gfx_microsoft_visual_studio[294];

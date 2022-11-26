@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_card_account_phone_length;
-extern const uint8_t  gfx_card_account_phone[54];
+extern const uint8_t  gfx_card_account_phone[209];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_image_filter_center_focus_strong_length;
-extern const uint8_t  gfx_image_filter_center_focus_strong[54];
+extern const uint8_t  gfx_image_filter_center_focus_strong[264];

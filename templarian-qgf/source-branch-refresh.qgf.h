@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_source_branch_refresh_length;
-extern const uint8_t  gfx_source_branch_refresh[54];
+extern const uint8_t  gfx_source_branch_refresh[308];

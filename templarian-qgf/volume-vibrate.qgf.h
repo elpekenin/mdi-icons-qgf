@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_volume_vibrate_length;
-extern const uint8_t  gfx_volume_vibrate[54];
+extern const uint8_t  gfx_volume_vibrate[278];

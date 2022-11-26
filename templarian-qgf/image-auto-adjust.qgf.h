@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_image_auto_adjust_length;
-extern const uint8_t  gfx_image_auto_adjust[54];
+extern const uint8_t  gfx_image_auto_adjust[281];

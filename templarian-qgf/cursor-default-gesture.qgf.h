@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_cursor_default_gesture_length;
-extern const uint8_t  gfx_cursor_default_gesture[54];
+extern const uint8_t  gfx_cursor_default_gesture[233];

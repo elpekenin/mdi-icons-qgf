@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_vector_link_length;
-extern const uint8_t  gfx_vector_link[54];
+extern const uint8_t  gfx_vector_link[312];

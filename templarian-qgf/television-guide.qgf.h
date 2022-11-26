@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_television_guide_length;
-extern const uint8_t  gfx_television_guide[54];
+extern const uint8_t  gfx_television_guide[254];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_table_of_contents_length;
-extern const uint8_t  gfx_table_of_contents[54];
+extern const uint8_t  gfx_table_of_contents[131];

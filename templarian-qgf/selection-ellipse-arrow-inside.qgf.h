@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_selection_ellipse_arrow_inside_length;
-extern const uint8_t  gfx_selection_ellipse_arrow_inside[54];
+extern const uint8_t  gfx_selection_ellipse_arrow_inside[279];

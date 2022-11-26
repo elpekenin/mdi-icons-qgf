@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_card_account_details_star_outline_length;
-extern const uint8_t  gfx_card_account_details_star_outline[54];
+extern const uint8_t  gfx_card_account_details_star_outline[280];

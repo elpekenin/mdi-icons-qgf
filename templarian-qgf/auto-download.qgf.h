@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_auto_download_length;
-extern const uint8_t  gfx_auto_download[54];
+extern const uint8_t  gfx_auto_download[216];

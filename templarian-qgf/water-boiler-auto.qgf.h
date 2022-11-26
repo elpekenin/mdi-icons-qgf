@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_water_boiler_auto_length;
-extern const uint8_t  gfx_water_boiler_auto[54];
+extern const uint8_t  gfx_water_boiler_auto[336];

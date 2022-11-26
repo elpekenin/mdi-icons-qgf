@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_tooltip_cellphone_length;
-extern const uint8_t  gfx_tooltip_cellphone[54];
+extern const uint8_t  gfx_tooltip_cellphone[280];

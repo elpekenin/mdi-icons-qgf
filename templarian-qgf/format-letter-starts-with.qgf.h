@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_letter_starts_with_length;
-extern const uint8_t  gfx_format_letter_starts_with[54];
+extern const uint8_t  gfx_format_letter_starts_with[222];

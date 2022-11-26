@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_medical_cotton_swab_length;
-extern const uint8_t  gfx_medical_cotton_swab[54];
+extern const uint8_t  gfx_medical_cotton_swab[265];

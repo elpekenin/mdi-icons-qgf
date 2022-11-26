@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_car_light_fog_length;
-extern const uint8_t  gfx_car_light_fog[54];
+extern const uint8_t  gfx_car_light_fog[260];

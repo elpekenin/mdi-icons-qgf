@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_text_wrapping_overflow_length;
-extern const uint8_t  gfx_format_text_wrapping_overflow[54];
+extern const uint8_t  gfx_format_text_wrapping_overflow[286];

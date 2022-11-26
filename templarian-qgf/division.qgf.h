@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_division_length;
-extern const uint8_t  gfx_division[54];
+extern const uint8_t  gfx_division[162];

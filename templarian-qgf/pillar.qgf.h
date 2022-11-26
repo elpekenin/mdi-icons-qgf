@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_pillar_length;
-extern const uint8_t  gfx_pillar[54];
+extern const uint8_t  gfx_pillar[329];

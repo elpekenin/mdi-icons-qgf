@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_saxophone_length;
-extern const uint8_t  gfx_saxophone[54];
+extern const uint8_t  gfx_saxophone[291];

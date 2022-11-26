@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_cellphone_basic_length;
-extern const uint8_t  gfx_cellphone_basic[54];
+extern const uint8_t  gfx_cellphone_basic[274];

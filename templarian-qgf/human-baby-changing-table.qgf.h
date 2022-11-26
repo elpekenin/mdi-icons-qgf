@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_human_baby_changing_table_length;
-extern const uint8_t  gfx_human_baby_changing_table[54];
+extern const uint8_t  gfx_human_baby_changing_table[272];

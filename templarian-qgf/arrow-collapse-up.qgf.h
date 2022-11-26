@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_arrow_collapse_up_length;
-extern const uint8_t  gfx_arrow_collapse_up[54];
+extern const uint8_t  gfx_arrow_collapse_up[276];

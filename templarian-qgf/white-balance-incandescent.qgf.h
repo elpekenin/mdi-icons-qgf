@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_white_balance_incandescent_length;
-extern const uint8_t  gfx_white_balance_incandescent[54];
+extern const uint8_t  gfx_white_balance_incandescent[322];

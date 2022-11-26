@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_rollupjs_length;
-extern const uint8_t  gfx_rollupjs[54];
+extern const uint8_t  gfx_rollupjs[336];

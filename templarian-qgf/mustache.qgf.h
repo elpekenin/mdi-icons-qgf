@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_mustache_length;
-extern const uint8_t  gfx_mustache[54];
+extern const uint8_t  gfx_mustache[137];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_ray_start_arrow_length;
-extern const uint8_t  gfx_ray_start_arrow[54];
+extern const uint8_t  gfx_ray_start_arrow[143];

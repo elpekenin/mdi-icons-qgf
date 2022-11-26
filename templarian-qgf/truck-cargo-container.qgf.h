@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_truck_cargo_container_length;
-extern const uint8_t  gfx_truck_cargo_container[54];
+extern const uint8_t  gfx_truck_cargo_container[244];

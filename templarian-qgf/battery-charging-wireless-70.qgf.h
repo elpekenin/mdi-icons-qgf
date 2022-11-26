@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_battery_charging_wireless_70_length;
-extern const uint8_t  gfx_battery_charging_wireless_70[54];
+extern const uint8_t  gfx_battery_charging_wireless_70[336];

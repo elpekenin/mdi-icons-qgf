@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_sphere_off_length;
-extern const uint8_t  gfx_sphere_off[54];
+extern const uint8_t  gfx_sphere_off[323];

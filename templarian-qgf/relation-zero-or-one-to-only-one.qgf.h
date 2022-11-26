@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_relation_zero_or_one_to_only_one_length;
-extern const uint8_t  gfx_relation_zero_or_one_to_only_one[54];
+extern const uint8_t  gfx_relation_zero_or_one_to_only_one[231];

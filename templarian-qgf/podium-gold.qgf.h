@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_podium_gold_length;
-extern const uint8_t  gfx_podium_gold[54];
+extern const uint8_t  gfx_podium_gold[285];

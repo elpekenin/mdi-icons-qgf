@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_car_sports_length;
-extern const uint8_t  gfx_car_sports[54];
+extern const uint8_t  gfx_car_sports[168];

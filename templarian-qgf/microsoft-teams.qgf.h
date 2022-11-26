@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_microsoft_teams_length;
-extern const uint8_t  gfx_microsoft_teams[54];
+extern const uint8_t  gfx_microsoft_teams[288];

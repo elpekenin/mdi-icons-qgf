@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_hazard_lights_length;
-extern const uint8_t  gfx_hazard_lights[54];
+extern const uint8_t  gfx_hazard_lights[280];

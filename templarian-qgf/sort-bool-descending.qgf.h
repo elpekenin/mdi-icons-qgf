@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_sort_bool_descending_length;
-extern const uint8_t  gfx_sort_bool_descending[54];
+extern const uint8_t  gfx_sort_bool_descending[270];

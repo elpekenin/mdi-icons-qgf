@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_signature_length;
-extern const uint8_t  gfx_signature[54];
+extern const uint8_t  gfx_signature[177];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_cube_send_length;
-extern const uint8_t  gfx_cube_send[54];
+extern const uint8_t  gfx_cube_send[253];

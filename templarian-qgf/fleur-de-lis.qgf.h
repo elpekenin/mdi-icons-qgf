@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_fleur_de_lis_length;
-extern const uint8_t  gfx_fleur_de_lis[54];
+extern const uint8_t  gfx_fleur_de_lis[277];

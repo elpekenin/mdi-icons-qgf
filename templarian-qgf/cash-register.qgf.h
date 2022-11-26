@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_cash_register_length;
-extern const uint8_t  gfx_cash_register[54];
+extern const uint8_t  gfx_cash_register[248];

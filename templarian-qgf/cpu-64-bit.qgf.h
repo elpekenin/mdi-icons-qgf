@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_cpu_64_bit_length;
-extern const uint8_t  gfx_cpu_64_bit[54];
+extern const uint8_t  gfx_cpu_64_bit[284];

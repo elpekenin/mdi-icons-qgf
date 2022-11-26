@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_table_row_plus_before_length;
-extern const uint8_t  gfx_table_row_plus_before[54];
+extern const uint8_t  gfx_table_row_plus_before[229];

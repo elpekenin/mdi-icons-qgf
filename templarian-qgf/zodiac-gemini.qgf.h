@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_zodiac_gemini_length;
-extern const uint8_t  gfx_zodiac_gemini[54];
+extern const uint8_t  gfx_zodiac_gemini[336];

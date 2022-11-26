@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_gate_not_length;
-extern const uint8_t  gfx_gate_not[54];
+extern const uint8_t  gfx_gate_not[232];

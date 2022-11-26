@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_parachute_length;
-extern const uint8_t  gfx_parachute[54];
+extern const uint8_t  gfx_parachute[308];

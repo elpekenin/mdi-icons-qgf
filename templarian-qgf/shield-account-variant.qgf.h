@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_shield_account_variant_length;
-extern const uint8_t  gfx_shield_account_variant[54];
+extern const uint8_t  gfx_shield_account_variant[274];

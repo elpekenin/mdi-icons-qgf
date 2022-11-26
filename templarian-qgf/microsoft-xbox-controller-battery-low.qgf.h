@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_microsoft_xbox_controller_battery_low_length;
-extern const uint8_t  gfx_microsoft_xbox_controller_battery_low[54];
+extern const uint8_t  gfx_microsoft_xbox_controller_battery_low[272];

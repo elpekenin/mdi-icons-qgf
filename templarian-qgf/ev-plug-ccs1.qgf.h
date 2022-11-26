@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_ev_plug_ccs1_length;
-extern const uint8_t  gfx_ev_plug_ccs1[54];
+extern const uint8_t  gfx_ev_plug_ccs1[336];

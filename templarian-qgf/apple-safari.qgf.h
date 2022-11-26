@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_apple_safari_length;
-extern const uint8_t  gfx_apple_safari[54];
+extern const uint8_t  gfx_apple_safari[308];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_table_split_cell_length;
-extern const uint8_t  gfx_table_split_cell[54];
+extern const uint8_t  gfx_table_split_cell[264];

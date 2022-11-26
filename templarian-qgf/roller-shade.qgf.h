@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_roller_shade_length;
-extern const uint8_t  gfx_roller_shade[54];
+extern const uint8_t  gfx_roller_shade[237];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_horse_variant_fast_length;
-extern const uint8_t  gfx_horse_variant_fast[54];
+extern const uint8_t  gfx_horse_variant_fast[288];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_notification_clear_all_length;
-extern const uint8_t  gfx_notification_clear_all[54];
+extern const uint8_t  gfx_notification_clear_all[134];

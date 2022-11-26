@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_cash_refund_length;
-extern const uint8_t  gfx_cash_refund[54];
+extern const uint8_t  gfx_cash_refund[291];

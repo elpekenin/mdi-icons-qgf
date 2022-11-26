@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_guitar_pick_length;
-extern const uint8_t  gfx_guitar_pick[54];
+extern const uint8_t  gfx_guitar_pick[294];

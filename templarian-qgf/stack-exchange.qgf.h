@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_stack_exchange_length;
-extern const uint8_t  gfx_stack_exchange[54];
+extern const uint8_t  gfx_stack_exchange[232];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_lan_pending_length;
-extern const uint8_t  gfx_lan_pending[54];
+extern const uint8_t  gfx_lan_pending[322];

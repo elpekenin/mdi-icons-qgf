@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_currency_jpy_length;
-extern const uint8_t  gfx_currency_jpy[54];
+extern const uint8_t  gfx_currency_jpy[274];

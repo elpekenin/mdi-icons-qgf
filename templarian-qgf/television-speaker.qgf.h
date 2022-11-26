@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_television_speaker_length;
-extern const uint8_t  gfx_television_speaker[54];
+extern const uint8_t  gfx_television_speaker[285];

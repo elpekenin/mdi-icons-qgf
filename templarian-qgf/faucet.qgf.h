@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_faucet_length;
-extern const uint8_t  gfx_faucet[54];
+extern const uint8_t  gfx_faucet[243];

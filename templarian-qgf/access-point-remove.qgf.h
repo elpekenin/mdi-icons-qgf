@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_access_point_remove_length;
-extern const uint8_t  gfx_access_point_remove[54];
+extern const uint8_t  gfx_access_point_remove[272];

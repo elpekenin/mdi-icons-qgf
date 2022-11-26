@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_skype_length;
-extern const uint8_t  gfx_skype[54];
+extern const uint8_t  gfx_skype[269];

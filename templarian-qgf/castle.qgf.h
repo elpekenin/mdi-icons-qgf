@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_castle_length;
-extern const uint8_t  gfx_castle[54];
+extern const uint8_t  gfx_castle[282];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_boom_gate_arrow_down_outline_length;
-extern const uint8_t  gfx_boom_gate_arrow_down_outline[54];
+extern const uint8_t  gfx_boom_gate_arrow_down_outline[287];

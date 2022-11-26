@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_billiards_rack_length;
-extern const uint8_t  gfx_billiards_rack[54];
+extern const uint8_t  gfx_billiards_rack[248];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_scale_balance_length;
-extern const uint8_t  gfx_scale_balance[54];
+extern const uint8_t  gfx_scale_balance[274];

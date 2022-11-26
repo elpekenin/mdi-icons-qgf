@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_television_classic_off_length;
-extern const uint8_t  gfx_television_classic_off[54];
+extern const uint8_t  gfx_television_classic_off[302];

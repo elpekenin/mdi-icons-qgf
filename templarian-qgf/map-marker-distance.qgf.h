@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_map_marker_distance_length;
-extern const uint8_t  gfx_map_marker_distance[54];
+extern const uint8_t  gfx_map_marker_distance[296];

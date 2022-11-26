@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_human_cane_length;
-extern const uint8_t  gfx_human_cane[54];
+extern const uint8_t  gfx_human_cane[302];

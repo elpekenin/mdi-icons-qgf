@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_nature_people_length;
-extern const uint8_t  gfx_nature_people[54];
+extern const uint8_t  gfx_nature_people[316];

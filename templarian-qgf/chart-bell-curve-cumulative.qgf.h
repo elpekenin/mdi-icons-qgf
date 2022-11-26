@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_chart_bell_curve_cumulative_length;
-extern const uint8_t  gfx_chart_bell_curve_cumulative[54];
+extern const uint8_t  gfx_chart_bell_curve_cumulative[296];

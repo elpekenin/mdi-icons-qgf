@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_car_coolant_level_length;
-extern const uint8_t  gfx_car_coolant_level[54];
+extern const uint8_t  gfx_car_coolant_level[229];

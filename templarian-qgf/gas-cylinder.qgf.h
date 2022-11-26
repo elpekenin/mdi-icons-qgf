@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_gas_cylinder_length;
-extern const uint8_t  gfx_gas_cylinder[54];
+extern const uint8_t  gfx_gas_cylinder[221];

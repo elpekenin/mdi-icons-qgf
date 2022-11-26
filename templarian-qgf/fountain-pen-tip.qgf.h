@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_fountain_pen_tip_length;
-extern const uint8_t  gfx_fountain_pen_tip[54];
+extern const uint8_t  gfx_fountain_pen_tip[262];

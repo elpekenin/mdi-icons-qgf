@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_screen_rotation_length;
-extern const uint8_t  gfx_screen_rotation[54];
+extern const uint8_t  gfx_screen_rotation[336];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_underline_wavy_length;
-extern const uint8_t  gfx_format_underline_wavy[54];
+extern const uint8_t  gfx_format_underline_wavy[297];

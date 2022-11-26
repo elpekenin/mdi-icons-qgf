@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_view_dashboard_variant_length;
-extern const uint8_t  gfx_view_dashboard_variant[54];
+extern const uint8_t  gfx_view_dashboard_variant[225];

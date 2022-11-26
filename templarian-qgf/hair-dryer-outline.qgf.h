@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_hair_dryer_outline_length;
-extern const uint8_t  gfx_hair_dryer_outline[54];
+extern const uint8_t  gfx_hair_dryer_outline[284];

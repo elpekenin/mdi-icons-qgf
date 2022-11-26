@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_text_rotation_angle_down_length;
-extern const uint8_t  gfx_format_text_rotation_angle_down[54];
+extern const uint8_t  gfx_format_text_rotation_angle_down[247];

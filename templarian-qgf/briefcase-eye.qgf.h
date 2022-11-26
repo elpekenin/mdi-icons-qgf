@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_briefcase_eye_length;
-extern const uint8_t  gfx_briefcase_eye[54];
+extern const uint8_t  gfx_briefcase_eye[283];

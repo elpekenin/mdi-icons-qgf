@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_head_minus_length;
-extern const uint8_t  gfx_head_minus[54];
+extern const uint8_t  gfx_head_minus[283];

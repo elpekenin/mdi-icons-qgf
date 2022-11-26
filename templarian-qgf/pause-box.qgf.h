@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_pause_box_length;
-extern const uint8_t  gfx_pause_box[54];
+extern const uint8_t  gfx_pause_box[265];

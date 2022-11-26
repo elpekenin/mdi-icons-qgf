@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_clock_time_eleven_length;
-extern const uint8_t  gfx_clock_time_eleven[54];
+extern const uint8_t  gfx_clock_time_eleven[297];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_message_text_fast_length;
-extern const uint8_t  gfx_message_text_fast[54];
+extern const uint8_t  gfx_message_text_fast[232];

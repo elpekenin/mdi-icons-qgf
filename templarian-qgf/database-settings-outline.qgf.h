@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_database_settings_outline_length;
-extern const uint8_t  gfx_database_settings_outline[54];
+extern const uint8_t  gfx_database_settings_outline[325];

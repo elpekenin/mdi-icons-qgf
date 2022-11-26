@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_baby_face_outline_length;
-extern const uint8_t  gfx_baby_face_outline[54];
+extern const uint8_t  gfx_baby_face_outline[286];

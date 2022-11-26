@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_eight_track_length;
-extern const uint8_t  gfx_eight_track[54];
+extern const uint8_t  gfx_eight_track[336];

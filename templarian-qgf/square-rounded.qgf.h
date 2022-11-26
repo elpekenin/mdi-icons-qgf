@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_square_rounded_length;
-extern const uint8_t  gfx_square_rounded[54];
+extern const uint8_t  gfx_square_rounded[247];

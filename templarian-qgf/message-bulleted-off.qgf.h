@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_message_bulleted_off_length;
-extern const uint8_t  gfx_message_bulleted_off[54];
+extern const uint8_t  gfx_message_bulleted_off[321];

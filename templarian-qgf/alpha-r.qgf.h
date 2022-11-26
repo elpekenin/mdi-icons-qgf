@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_alpha_r_length;
-extern const uint8_t  gfx_alpha_r[54];
+extern const uint8_t  gfx_alpha_r[146];

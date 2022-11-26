@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_animation_length;
-extern const uint8_t  gfx_animation[54];
+extern const uint8_t  gfx_animation[315];

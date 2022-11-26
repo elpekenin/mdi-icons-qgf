@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_close_octagon_length;
-extern const uint8_t  gfx_close_octagon[54];
+extern const uint8_t  gfx_close_octagon[289];

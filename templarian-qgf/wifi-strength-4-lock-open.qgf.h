@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_wifi_strength_4_lock_open_length;
-extern const uint8_t  gfx_wifi_strength_4_lock_open[54];
+extern const uint8_t  gfx_wifi_strength_4_lock_open[291];

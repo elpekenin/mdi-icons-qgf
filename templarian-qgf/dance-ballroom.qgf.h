@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_dance_ballroom_length;
-extern const uint8_t  gfx_dance_ballroom[54];
+extern const uint8_t  gfx_dance_ballroom[297];

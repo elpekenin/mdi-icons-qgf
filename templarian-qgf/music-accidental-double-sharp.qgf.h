@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_music_accidental_double_sharp_length;
-extern const uint8_t  gfx_music_accidental_double_sharp[54];
+extern const uint8_t  gfx_music_accidental_double_sharp[174];

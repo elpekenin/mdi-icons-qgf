@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_wizard_hat_length;
-extern const uint8_t  gfx_wizard_hat[54];
+extern const uint8_t  gfx_wizard_hat[280];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_paragraph_spacing_length;
-extern const uint8_t  gfx_format_paragraph_spacing[54];
+extern const uint8_t  gfx_format_paragraph_spacing[229];

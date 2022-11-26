@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_video_3d_length;
-extern const uint8_t  gfx_video_3d[54];
+extern const uint8_t  gfx_video_3d[174];

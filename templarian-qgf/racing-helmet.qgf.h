@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_racing_helmet_length;
-extern const uint8_t  gfx_racing_helmet[54];
+extern const uint8_t  gfx_racing_helmet[254];

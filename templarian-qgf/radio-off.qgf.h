@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_radio_off_length;
-extern const uint8_t  gfx_radio_off[54];
+extern const uint8_t  gfx_radio_off[331];

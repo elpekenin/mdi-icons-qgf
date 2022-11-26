@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_invert_colors_length;
-extern const uint8_t  gfx_invert_colors[54];
+extern const uint8_t  gfx_invert_colors[309];

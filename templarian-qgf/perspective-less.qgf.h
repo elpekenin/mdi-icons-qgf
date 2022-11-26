@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_perspective_less_length;
-extern const uint8_t  gfx_perspective_less[54];
+extern const uint8_t  gfx_perspective_less[336];

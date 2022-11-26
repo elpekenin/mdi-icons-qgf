@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_signal_4g_length;
-extern const uint8_t  gfx_signal_4g[54];
+extern const uint8_t  gfx_signal_4g[251];

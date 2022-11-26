@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_lock_pattern_length;
-extern const uint8_t  gfx_lock_pattern[54];
+extern const uint8_t  gfx_lock_pattern[275];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_file_image_remove_length;
-extern const uint8_t  gfx_file_image_remove[54];
+extern const uint8_t  gfx_file_image_remove[314];

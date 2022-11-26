@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_ipod_length;
-extern const uint8_t  gfx_ipod[54];
+extern const uint8_t  gfx_ipod[336];

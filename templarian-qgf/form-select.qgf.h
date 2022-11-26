@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_form_select_length;
-extern const uint8_t  gfx_form_select[54];
+extern const uint8_t  gfx_form_select[306];

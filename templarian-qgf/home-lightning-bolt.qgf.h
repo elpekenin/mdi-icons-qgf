@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_home_lightning_bolt_length;
-extern const uint8_t  gfx_home_lightning_bolt[54];
+extern const uint8_t  gfx_home_lightning_bolt[277];

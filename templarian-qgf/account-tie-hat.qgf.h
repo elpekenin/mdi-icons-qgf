@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_account_tie_hat_length;
-extern const uint8_t  gfx_account_tie_hat[54];
+extern const uint8_t  gfx_account_tie_hat[263];

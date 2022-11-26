@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_trophy_length;
-extern const uint8_t  gfx_trophy[54];
+extern const uint8_t  gfx_trophy[288];

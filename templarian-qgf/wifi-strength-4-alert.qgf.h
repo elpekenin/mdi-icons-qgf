@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_wifi_strength_4_alert_length;
-extern const uint8_t  gfx_wifi_strength_4_alert[54];
+extern const uint8_t  gfx_wifi_strength_4_alert[271];

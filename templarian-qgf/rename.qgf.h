@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_rename_length;
-extern const uint8_t  gfx_rename[54];
+extern const uint8_t  gfx_rename[239];

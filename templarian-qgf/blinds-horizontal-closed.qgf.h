@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_blinds_horizontal_closed_length;
-extern const uint8_t  gfx_blinds_horizontal_closed[54];
+extern const uint8_t  gfx_blinds_horizontal_closed[267];

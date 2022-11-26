@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_wifi_arrow_left_right_length;
-extern const uint8_t  gfx_wifi_arrow_left_right[54];
+extern const uint8_t  gfx_wifi_arrow_left_right[306];

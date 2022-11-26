@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_drama_masks_length;
-extern const uint8_t  gfx_drama_masks[54];
+extern const uint8_t  gfx_drama_masks[296];

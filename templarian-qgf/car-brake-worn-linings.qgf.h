@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_car_brake_worn_linings_length;
-extern const uint8_t  gfx_car_brake_worn_linings[54];
+extern const uint8_t  gfx_car_brake_worn_linings[295];

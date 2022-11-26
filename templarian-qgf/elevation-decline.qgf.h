@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_elevation_decline_length;
-extern const uint8_t  gfx_elevation_decline[54];
+extern const uint8_t  gfx_elevation_decline[219];

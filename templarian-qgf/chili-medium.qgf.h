@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_chili_medium_length;
-extern const uint8_t  gfx_chili_medium[54];
+extern const uint8_t  gfx_chili_medium[299];

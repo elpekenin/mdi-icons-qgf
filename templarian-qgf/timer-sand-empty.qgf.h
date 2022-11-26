@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_timer_sand_empty_length;
-extern const uint8_t  gfx_timer_sand_empty[54];
+extern const uint8_t  gfx_timer_sand_empty[334];

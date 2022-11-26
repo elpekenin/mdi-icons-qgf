@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_chart_bar_length;
-extern const uint8_t  gfx_chart_bar[54];
+extern const uint8_t  gfx_chart_bar[286];

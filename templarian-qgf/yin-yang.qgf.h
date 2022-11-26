@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_yin_yang_length;
-extern const uint8_t  gfx_yin_yang[54];
+extern const uint8_t  gfx_yin_yang[313];

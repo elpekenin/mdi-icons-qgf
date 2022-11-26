@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_file_word_length;
-extern const uint8_t  gfx_file_word[54];
+extern const uint8_t  gfx_file_word[304];

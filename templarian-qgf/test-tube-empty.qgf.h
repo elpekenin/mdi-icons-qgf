@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_test_tube_empty_length;
-extern const uint8_t  gfx_test_tube_empty[54];
+extern const uint8_t  gfx_test_tube_empty[262];

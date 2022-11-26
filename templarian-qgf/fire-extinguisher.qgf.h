@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_fire_extinguisher_length;
-extern const uint8_t  gfx_fire_extinguisher[54];
+extern const uint8_t  gfx_fire_extinguisher[296];

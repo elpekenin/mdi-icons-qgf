@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_overline_length;
-extern const uint8_t  gfx_format_overline[54];
+extern const uint8_t  gfx_format_overline[252];

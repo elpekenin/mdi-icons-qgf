@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_human_capacity_increase_length;
-extern const uint8_t  gfx_human_capacity_increase[54];
+extern const uint8_t  gfx_human_capacity_increase[276];

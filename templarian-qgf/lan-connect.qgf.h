@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_lan_connect_length;
-extern const uint8_t  gfx_lan_connect[54];
+extern const uint8_t  gfx_lan_connect[316];

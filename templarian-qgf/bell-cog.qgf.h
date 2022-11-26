@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_bell_cog_length;
-extern const uint8_t  gfx_bell_cog[54];
+extern const uint8_t  gfx_bell_cog[336];

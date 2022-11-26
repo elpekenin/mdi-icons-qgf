@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_webhook_length;
-extern const uint8_t  gfx_webhook[54];
+extern const uint8_t  gfx_webhook[270];

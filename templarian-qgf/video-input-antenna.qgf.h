@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_video_input_antenna_length;
-extern const uint8_t  gfx_video_input_antenna[54];
+extern const uint8_t  gfx_video_input_antenna[312];

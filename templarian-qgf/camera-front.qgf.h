@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_camera_front_length;
-extern const uint8_t  gfx_camera_front[54];
+extern const uint8_t  gfx_camera_front[336];

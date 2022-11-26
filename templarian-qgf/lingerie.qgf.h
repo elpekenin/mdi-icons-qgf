@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_lingerie_length;
-extern const uint8_t  gfx_lingerie[54];
+extern const uint8_t  gfx_lingerie[287];

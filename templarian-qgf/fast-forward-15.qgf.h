@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_fast_forward_15_length;
-extern const uint8_t  gfx_fast_forward_15[54];
+extern const uint8_t  gfx_fast_forward_15[264];

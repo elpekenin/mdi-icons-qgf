@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_shower_head_length;
-extern const uint8_t  gfx_shower_head[54];
+extern const uint8_t  gfx_shower_head[243];

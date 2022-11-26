@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_phone_rotate_portrait_length;
-extern const uint8_t  gfx_phone_rotate_portrait[54];
+extern const uint8_t  gfx_phone_rotate_portrait[330];

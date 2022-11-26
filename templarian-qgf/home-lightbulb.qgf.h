@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_home_lightbulb_length;
-extern const uint8_t  gfx_home_lightbulb[54];
+extern const uint8_t  gfx_home_lightbulb[280];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_emoticon_happy_length;
-extern const uint8_t  gfx_emoticon_happy[54];
+extern const uint8_t  gfx_emoticon_happy[294];

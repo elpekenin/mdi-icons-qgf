@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_movie_roll_length;
-extern const uint8_t  gfx_movie_roll[54];
+extern const uint8_t  gfx_movie_roll[312];

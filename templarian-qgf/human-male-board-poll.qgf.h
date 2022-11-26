@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_human_male_board_poll_length;
-extern const uint8_t  gfx_human_male_board_poll[54];
+extern const uint8_t  gfx_human_male_board_poll[301];

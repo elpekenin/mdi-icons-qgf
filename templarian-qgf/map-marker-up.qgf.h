@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_map_marker_up_length;
-extern const uint8_t  gfx_map_marker_up[54];
+extern const uint8_t  gfx_map_marker_up[316];

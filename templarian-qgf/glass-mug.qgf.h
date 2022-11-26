@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_glass_mug_length;
-extern const uint8_t  gfx_glass_mug[54];
+extern const uint8_t  gfx_glass_mug[285];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_food_hot_dog_length;
-extern const uint8_t  gfx_food_hot_dog[54];
+extern const uint8_t  gfx_food_hot_dog[303];

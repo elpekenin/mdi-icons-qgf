@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_airplane_takeoff_length;
-extern const uint8_t  gfx_airplane_takeoff[54];
+extern const uint8_t  gfx_airplane_takeoff[221];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_hammer_screwdriver_length;
-extern const uint8_t  gfx_hammer_screwdriver[54];
+extern const uint8_t  gfx_hammer_screwdriver[305];

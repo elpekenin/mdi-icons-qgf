@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_frequently_asked_questions_length;
-extern const uint8_t  gfx_frequently_asked_questions[54];
+extern const uint8_t  gfx_frequently_asked_questions[292];

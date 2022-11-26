@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_mixed_reality_length;
-extern const uint8_t  gfx_mixed_reality[54];
+extern const uint8_t  gfx_mixed_reality[248];

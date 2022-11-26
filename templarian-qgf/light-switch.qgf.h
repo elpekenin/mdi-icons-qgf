@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_light_switch_length;
-extern const uint8_t  gfx_light_switch[54];
+extern const uint8_t  gfx_light_switch[336];

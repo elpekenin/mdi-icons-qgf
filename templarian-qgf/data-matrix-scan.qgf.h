@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_data_matrix_scan_length;
-extern const uint8_t  gfx_data_matrix_scan[54];
+extern const uint8_t  gfx_data_matrix_scan[336];

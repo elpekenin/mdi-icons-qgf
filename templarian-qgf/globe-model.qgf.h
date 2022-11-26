@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_globe_model_length;
-extern const uint8_t  gfx_globe_model[54];
+extern const uint8_t  gfx_globe_model[298];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_letter_case_upper_length;
-extern const uint8_t  gfx_format_letter_case_upper[54];
+extern const uint8_t  gfx_format_letter_case_upper[231];

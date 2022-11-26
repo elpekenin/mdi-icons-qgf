@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_cards_diamond_length;
-extern const uint8_t  gfx_cards_diamond[54];
+extern const uint8_t  gfx_cards_diamond[302];

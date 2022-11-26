@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_color_highlight_length;
-extern const uint8_t  gfx_format_color_highlight[54];
+extern const uint8_t  gfx_format_color_highlight[218];

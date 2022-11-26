@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_car_clutch_length;
-extern const uint8_t  gfx_car_clutch[54];
+extern const uint8_t  gfx_car_clutch[280];

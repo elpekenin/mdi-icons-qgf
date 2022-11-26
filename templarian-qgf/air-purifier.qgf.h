@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_air_purifier_length;
-extern const uint8_t  gfx_air_purifier[54];
+extern const uint8_t  gfx_air_purifier[272];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_hot_tub_length;
-extern const uint8_t  gfx_hot_tub[54];
+extern const uint8_t  gfx_hot_tub[259];

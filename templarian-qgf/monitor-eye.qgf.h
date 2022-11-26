@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_monitor_eye_length;
-extern const uint8_t  gfx_monitor_eye[54];
+extern const uint8_t  gfx_monitor_eye[282];

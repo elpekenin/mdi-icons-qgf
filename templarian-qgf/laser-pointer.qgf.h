@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_laser_pointer_length;
-extern const uint8_t  gfx_laser_pointer[54];
+extern const uint8_t  gfx_laser_pointer[279];

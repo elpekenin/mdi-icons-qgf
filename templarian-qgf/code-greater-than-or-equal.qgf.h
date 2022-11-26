@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_code_greater_than_or_equal_length;
-extern const uint8_t  gfx_code_greater_than_or_equal[54];
+extern const uint8_t  gfx_code_greater_than_or_equal[253];

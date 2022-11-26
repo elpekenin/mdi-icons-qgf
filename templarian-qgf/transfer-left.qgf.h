@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_transfer_left_length;
-extern const uint8_t  gfx_transfer_left[54];
+extern const uint8_t  gfx_transfer_left[202];

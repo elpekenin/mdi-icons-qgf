@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_clipboard_play_multiple_length;
-extern const uint8_t  gfx_clipboard_play_multiple[54];
+extern const uint8_t  gfx_clipboard_play_multiple[319];

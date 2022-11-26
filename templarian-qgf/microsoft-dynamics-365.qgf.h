@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_microsoft_dynamics_365_length;
-extern const uint8_t  gfx_microsoft_dynamics_365[54];
+extern const uint8_t  gfx_microsoft_dynamics_365[294];

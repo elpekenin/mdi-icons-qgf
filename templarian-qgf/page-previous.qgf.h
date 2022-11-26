@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_page_previous_length;
-extern const uint8_t  gfx_page_previous[54];
+extern const uint8_t  gfx_page_previous[257];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_checkbox_blank_badge_length;
-extern const uint8_t  gfx_checkbox_blank_badge[54];
+extern const uint8_t  gfx_checkbox_blank_badge[274];

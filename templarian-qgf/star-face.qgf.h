@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_star_face_length;
-extern const uint8_t  gfx_star_face[54];
+extern const uint8_t  gfx_star_face[295];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_car_brake_abs_length;
-extern const uint8_t  gfx_car_brake_abs[54];
+extern const uint8_t  gfx_car_brake_abs[267];

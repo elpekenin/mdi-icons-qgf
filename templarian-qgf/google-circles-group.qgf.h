@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_google_circles_group_length;
-extern const uint8_t  gfx_google_circles_group[54];
+extern const uint8_t  gfx_google_circles_group[316];

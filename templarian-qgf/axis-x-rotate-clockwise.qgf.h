@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_axis_x_rotate_clockwise_length;
-extern const uint8_t  gfx_axis_x_rotate_clockwise[54];
+extern const uint8_t  gfx_axis_x_rotate_clockwise[288];

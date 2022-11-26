@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_flash_triangle_length;
-extern const uint8_t  gfx_flash_triangle[54];
+extern const uint8_t  gfx_flash_triangle[274];

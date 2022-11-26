@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_speedometer_length;
-extern const uint8_t  gfx_speedometer[54];
+extern const uint8_t  gfx_speedometer[281];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_clipboard_file_length;
-extern const uint8_t  gfx_clipboard_file[54];
+extern const uint8_t  gfx_clipboard_file[309];

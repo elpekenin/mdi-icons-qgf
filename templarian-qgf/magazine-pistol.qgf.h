@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_magazine_pistol_length;
-extern const uint8_t  gfx_magazine_pistol[54];
+extern const uint8_t  gfx_magazine_pistol[335];

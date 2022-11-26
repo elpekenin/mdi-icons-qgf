@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_apple_keyboard_command_length;
-extern const uint8_t  gfx_apple_keyboard_command[54];
+extern const uint8_t  gfx_apple_keyboard_command[278];

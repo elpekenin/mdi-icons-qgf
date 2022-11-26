@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_basketball_hoop_length;
-extern const uint8_t  gfx_basketball_hoop[54];
+extern const uint8_t  gfx_basketball_hoop[320];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_basket_unfill_length;
-extern const uint8_t  gfx_basket_unfill[54];
+extern const uint8_t  gfx_basket_unfill[303];

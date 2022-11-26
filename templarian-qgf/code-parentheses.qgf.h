@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_code_parentheses_length;
-extern const uint8_t  gfx_code_parentheses[54];
+extern const uint8_t  gfx_code_parentheses[336];

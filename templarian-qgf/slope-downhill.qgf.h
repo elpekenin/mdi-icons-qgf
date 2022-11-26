@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_slope_downhill_length;
-extern const uint8_t  gfx_slope_downhill[54];
+extern const uint8_t  gfx_slope_downhill[259];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_square_root_length;
-extern const uint8_t  gfx_square_root[54];
+extern const uint8_t  gfx_square_root[215];

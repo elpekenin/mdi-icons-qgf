@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_traffic_cone_length;
-extern const uint8_t  gfx_traffic_cone[54];
+extern const uint8_t  gfx_traffic_cone[221];

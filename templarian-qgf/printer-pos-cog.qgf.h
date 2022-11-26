@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_printer_pos_cog_length;
-extern const uint8_t  gfx_printer_pos_cog[54];
+extern const uint8_t  gfx_printer_pos_cog[305];

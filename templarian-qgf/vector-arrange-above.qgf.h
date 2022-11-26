@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_vector_arrange_above_length;
-extern const uint8_t  gfx_vector_arrange_above[54];
+extern const uint8_t  gfx_vector_arrange_above[334];

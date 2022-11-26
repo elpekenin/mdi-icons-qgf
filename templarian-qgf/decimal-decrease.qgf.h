@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_decimal_decrease_length;
-extern const uint8_t  gfx_decimal_decrease[54];
+extern const uint8_t  gfx_decimal_decrease[194];

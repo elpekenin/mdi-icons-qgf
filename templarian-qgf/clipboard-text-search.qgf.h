@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_clipboard_text_search_length;
-extern const uint8_t  gfx_clipboard_text_search[54];
+extern const uint8_t  gfx_clipboard_text_search[307];

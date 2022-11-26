@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_priority_high_length;
-extern const uint8_t  gfx_priority_high[54];
+extern const uint8_t  gfx_priority_high[217];

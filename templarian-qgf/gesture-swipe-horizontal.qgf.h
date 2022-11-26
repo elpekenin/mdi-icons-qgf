@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_gesture_swipe_horizontal_length;
-extern const uint8_t  gfx_gesture_swipe_horizontal[54];
+extern const uint8_t  gfx_gesture_swipe_horizontal[281];

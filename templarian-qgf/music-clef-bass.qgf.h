@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_music_clef_bass_length;
-extern const uint8_t  gfx_music_clef_bass[54];
+extern const uint8_t  gfx_music_clef_bass[231];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_tape_measure_length;
-extern const uint8_t  gfx_tape_measure[54];
+extern const uint8_t  gfx_tape_measure[251];

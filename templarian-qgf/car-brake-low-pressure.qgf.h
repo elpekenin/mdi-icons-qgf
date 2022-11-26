@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_car_brake_low_pressure_length;
-extern const uint8_t  gfx_car_brake_low_pressure[54];
+extern const uint8_t  gfx_car_brake_low_pressure[287];

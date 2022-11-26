@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_fireplace_length;
-extern const uint8_t  gfx_fireplace[54];
+extern const uint8_t  gfx_fireplace[256];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_line_style_length;
-extern const uint8_t  gfx_format_line_style[54];
+extern const uint8_t  gfx_format_line_style[170];

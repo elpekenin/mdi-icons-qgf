@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_repeat_once_length;
-extern const uint8_t  gfx_repeat_once[54];
+extern const uint8_t  gfx_repeat_once[282];

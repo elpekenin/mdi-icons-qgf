@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_step_backward_2_length;
-extern const uint8_t  gfx_step_backward_2[54];
+extern const uint8_t  gfx_step_backward_2[238];

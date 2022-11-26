@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_angle_obtuse_length;
-extern const uint8_t  gfx_angle_obtuse[54];
+extern const uint8_t  gfx_angle_obtuse[203];

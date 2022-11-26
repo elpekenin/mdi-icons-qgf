@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_desktop_tower_monitor_length;
-extern const uint8_t  gfx_desktop_tower_monitor[54];
+extern const uint8_t  gfx_desktop_tower_monitor[215];

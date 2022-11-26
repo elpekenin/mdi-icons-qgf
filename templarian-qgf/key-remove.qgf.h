@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_key_remove_length;
-extern const uint8_t  gfx_key_remove[54];
+extern const uint8_t  gfx_key_remove[243];

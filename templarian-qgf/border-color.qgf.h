@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_border_color_length;
-extern const uint8_t  gfx_border_color[54];
+extern const uint8_t  gfx_border_color[239];

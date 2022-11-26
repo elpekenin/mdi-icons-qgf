@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_cake_layered_length;
-extern const uint8_t  gfx_cake_layered[54];
+extern const uint8_t  gfx_cake_layered[291];

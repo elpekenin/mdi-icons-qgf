@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_quality_high_length;
-extern const uint8_t  gfx_quality_high[54];
+extern const uint8_t  gfx_quality_high[231];

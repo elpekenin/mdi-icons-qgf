@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_silverware_length;
-extern const uint8_t  gfx_silverware[54];
+extern const uint8_t  gfx_silverware[284];

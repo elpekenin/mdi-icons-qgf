@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_font_awesome_length;
-extern const uint8_t  gfx_font_awesome[54];
+extern const uint8_t  gfx_font_awesome[301];

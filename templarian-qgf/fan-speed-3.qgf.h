@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_fan_speed_3_length;
-extern const uint8_t  gfx_fan_speed_3[54];
+extern const uint8_t  gfx_fan_speed_3[309];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_mother_nurse_length;
-extern const uint8_t  gfx_mother_nurse[54];
+extern const uint8_t  gfx_mother_nurse[293];

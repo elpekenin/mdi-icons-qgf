@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_vimeo_length;
-extern const uint8_t  gfx_vimeo[54];
+extern const uint8_t  gfx_vimeo[273];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_email_seal_length;
-extern const uint8_t  gfx_email_seal[54];
+extern const uint8_t  gfx_email_seal[322];

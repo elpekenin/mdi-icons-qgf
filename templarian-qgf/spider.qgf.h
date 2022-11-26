@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_spider_length;
-extern const uint8_t  gfx_spider[54];
+extern const uint8_t  gfx_spider[328];

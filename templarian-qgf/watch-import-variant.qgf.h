@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_watch_import_variant_length;
-extern const uint8_t  gfx_watch_import_variant[54];
+extern const uint8_t  gfx_watch_import_variant[336];

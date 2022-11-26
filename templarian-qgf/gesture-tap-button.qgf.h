@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_gesture_tap_button_length;
-extern const uint8_t  gfx_gesture_tap_button[54];
+extern const uint8_t  gfx_gesture_tap_button[280];

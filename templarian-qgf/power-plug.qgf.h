@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_power_plug_length;
-extern const uint8_t  gfx_power_plug[54];
+extern const uint8_t  gfx_power_plug[286];

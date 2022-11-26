@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_usb_flash_drive_length;
-extern const uint8_t  gfx_usb_flash_drive[54];
+extern const uint8_t  gfx_usb_flash_drive[320];

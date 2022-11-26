@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_sign_real_estate_length;
-extern const uint8_t  gfx_sign_real_estate[54];
+extern const uint8_t  gfx_sign_real_estate[264];

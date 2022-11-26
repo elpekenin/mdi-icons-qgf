@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_spoon_sugar_length;
-extern const uint8_t  gfx_spoon_sugar[54];
+extern const uint8_t  gfx_spoon_sugar[175];

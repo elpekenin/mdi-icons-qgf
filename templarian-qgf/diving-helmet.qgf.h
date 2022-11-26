@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_diving_helmet_length;
-extern const uint8_t  gfx_diving_helmet[54];
+extern const uint8_t  gfx_diving_helmet[330];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_bluetooth_connect_length;
-extern const uint8_t  gfx_bluetooth_connect[54];
+extern const uint8_t  gfx_bluetooth_connect[293];

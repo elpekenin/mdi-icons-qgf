@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_hand_pointing_right_length;
-extern const uint8_t  gfx_hand_pointing_right[54];
+extern const uint8_t  gfx_hand_pointing_right[218];

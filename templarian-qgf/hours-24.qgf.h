@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_hours_24_length;
-extern const uint8_t  gfx_hours_24[54];
+extern const uint8_t  gfx_hours_24[311];

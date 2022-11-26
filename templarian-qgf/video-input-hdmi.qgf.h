@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_video_input_hdmi_length;
-extern const uint8_t  gfx_video_input_hdmi[54];
+extern const uint8_t  gfx_video_input_hdmi[336];

@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_music_clef_treble_length;
-extern const uint8_t  gfx_music_clef_treble[54];
+extern const uint8_t  gfx_music_clef_treble[301];

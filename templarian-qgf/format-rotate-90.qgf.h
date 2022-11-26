@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_format_rotate_90_length;
-extern const uint8_t  gfx_format_rotate_90[54];
+extern const uint8_t  gfx_format_rotate_90[303];

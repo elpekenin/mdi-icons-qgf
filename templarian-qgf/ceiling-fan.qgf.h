@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_ceiling_fan_length;
-extern const uint8_t  gfx_ceiling_fan[54];
+extern const uint8_t  gfx_ceiling_fan[193];

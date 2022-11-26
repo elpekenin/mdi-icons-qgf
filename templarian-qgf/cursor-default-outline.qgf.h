@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_cursor_default_outline_length;
-extern const uint8_t  gfx_cursor_default_outline[54];
+extern const uint8_t  gfx_cursor_default_outline[301];

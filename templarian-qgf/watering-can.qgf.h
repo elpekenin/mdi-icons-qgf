@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_watering_can_length;
-extern const uint8_t  gfx_watering_can[54];
+extern const uint8_t  gfx_watering_can[260];

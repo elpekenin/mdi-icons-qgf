@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_cast_connected_length;
-extern const uint8_t  gfx_cast_connected[54];
+extern const uint8_t  gfx_cast_connected[274];

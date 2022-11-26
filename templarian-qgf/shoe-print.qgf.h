@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_shoe_print_length;
-extern const uint8_t  gfx_shoe_print[54];
+extern const uint8_t  gfx_shoe_print[264];

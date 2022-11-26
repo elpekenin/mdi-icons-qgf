@@ -8,4 +8,4 @@
 #include <qp.h>
 
 extern const uint32_t gfx_vector_combine_length;
-extern const uint8_t  gfx_vector_combine[54];
+extern const uint8_t  gfx_vector_combine[332];
